@@ -5,7 +5,7 @@ const db = new Database('./data.db', {
 });
 
 const interviewers = [
-  { name: 'Niclas', email: 'nicolas@gmail.com' },
+  { name: 'Nicolas', email: 'nicolas@gmail.com' },
   { name: 'Ed', email: 'ed@gmail.com' },
   { name: 'Gerald', email: 'gerald@gmail.com' },
   { name: 'Kushtrim', email: 'kushtrim@gmail.com' }
